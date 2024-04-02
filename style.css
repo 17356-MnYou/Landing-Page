@@ -1,0 +1,16 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.gradient {
+    background: linear-gradient(90deg, #029FA4 0%, #3DB5B9 100%);
+}
+
+button {
+    border-radius: 5px !important;
+    padding: 10px 20px !important;
+}
